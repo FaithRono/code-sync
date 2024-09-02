@@ -1,0 +1,1 @@
+// Service worker configuration for PWA features.
